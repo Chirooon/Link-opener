@@ -13,6 +13,13 @@ You need python 3 or above if you dont have it you can download it right here : 
 
 # For Help and other things
 Add me on Disord [![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
+This is my first upload if you have feedback don´t wait to tell me on discord !
+
+I hope you have a good day!
+
+
+
+
 
 
 

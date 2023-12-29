@@ -8,5 +8,5 @@ A Python code with a simple user interface to open a custom link that you can en
  Then it should be running !
 
 # IMPORTANT
-You need python 3 or above if you dont have it you can download it right here : [Download python](https://www.python.org/downloads/)
+You need python 3 or above if you dont have it you can download it right here : (https://www.python.org/downloads/)
 

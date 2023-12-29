@@ -4,4 +4,4 @@ A Python code with a simple user interface to open a custom link that you can en
 # Screenshot
 ![image](https://github.com/Chirooon/Link-opener/assets/155199793/93ac2d35-5c51-4849-ac73-bfb3920ec70e)
 
- run it by opening cmd (command promp) and t
+ Start the program by opening cmd and typing in the following: `cd Downloads` after switching to downloads, type in: `python Link.py`

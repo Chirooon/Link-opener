@@ -11,7 +11,7 @@ Then it should be running !
 # IMPORTANT
 You need python 3 or above if you dont have it you can download it right here : (https://www.python.org/downloads/)
 
-# For Help
+# For Help and other things
 Add me on Disord [![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
 
 

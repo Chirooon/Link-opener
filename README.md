@@ -6,6 +6,7 @@ A Python code with a simple user interface to open a custom link that you can en
 
 # Usage
 Start the program by opening cmd and typing in the following: `cd Downloads` after switching to downloads, type in: `python Link.py`
+
 Then it should be running !
 
 # IMPORTANT

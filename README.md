@@ -19,9 +19,3 @@ This is my first upload if you have feedback don´t wait to tell me on discord !
 
 I hope you have a good day!
 
-
-
-
-
-
-

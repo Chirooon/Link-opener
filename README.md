@@ -14,9 +14,9 @@ You need python 3 or above if you dont have it you can download it right here : 
 
 `Anzahl`= Number how oft you want to open the website.
 
-# For Help and other things
-Add me on Disord [![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
-This is my first upload if you have feedback don´t wait to tell me on discord !
+# Need help?
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
 
-# I hope you have a good day!
+# Code request? 
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
 
